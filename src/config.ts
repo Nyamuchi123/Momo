@@ -7,7 +7,7 @@ import type {
 import type { FriendLink } from "./types/friend"
 
 export const siteConfig: SiteConfig = {
-    title: "Momo",
+    title: "Nyamuchi の blog",
     subTitle: "Blog",
 
     favicon: "/favicon/favicon.ico", // Path of the favicon, relative to the /public directory
@@ -27,11 +27,11 @@ export const siteConfig: SiteConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-    avatar: "assets/Motues.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-    name: "Motues",
-    description: "Life is colorful!",
-    indexPage: "https://motues.top",
-    startYear: 2024,
+    avatar: "assets/avatar.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    name: "Nyamuchi",
+    description: "こんにちにゃむにゃむ〜♪",
+    indexPage: "https://blog.nyamuchi.us.ci/",
+    startYear: 2026
 }
 
 export const licenseConfig: LicenseConfig = {
@@ -42,16 +42,16 @@ export const licenseConfig: LicenseConfig = {
 
 export const friendLinkConfig: FriendLink[] = [
     {
-        name: 'Motues',
-        avatar: 'https://avatars.githubusercontent.com/u/164032838',
-        url: 'https://motues.top',
-        description: 'Like River!'
+        name: 'haruki🐻',
+        avatar: 'https://haruki.sakiko.top/avatar/48dfdd36-6e3a-4de2-b497-d003c1cbaa2e.jpeg',
+        url: 'https://haruki.sakiko.top/#/',
+        description: '可怜的孩子 不再胆怯'
     },
-    {
-        name: 'Astro',
-        avatar: 'https://avatars.githubusercontent.com/u/44914786',
-        url: 'https://astro.build',
-        description: 'Build fast websites, faster.'
-    }
+    //{
+        //name: 'Astro',
+       // avatar: 'https://avatars.githubusercontent.com/u/44914786',
+       // url: 'https://astro.build',
+       // description: 'Build fast websites, faster.'
+    //}
     // Add more friend links here
 ]
