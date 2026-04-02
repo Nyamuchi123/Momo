@@ -1,38 +1,18 @@
 
-Momo 取自小红书📕，每个新用户最初的昵称，象征着初始新生。博客的设计理念也来自于此，从简约出发，在复杂功能与简约设计之间达到一种平衡。
+这里是喵姆亲，一个啥也不会的大学生，正在学习Go和Python，本blog主要分享一些学习、游戏和科技相关的事情。
 
-## ✨ 特性
+## ✨ 未来展望
 
-* **极简设计**：页面设计简约，黑白为主色调，蓝色进行点缀
-* **深色模式**：支持手动切换或自动跟随系统
-* **文章搜索功能**：使用 [pagefind](https://pagefind.app/) 实现本地化搜索功能
-* **国际化（i18n）**：支持多语言切换，目前支撑简体中文、英文
-* **移动端适配**：组件针对移动端进行优化，拥有和电脑浏览器一样的使用体验
-* **评论功能**：支持本地部署和 Cloudflare 部署，具体参考 [Backend](https://github.com/Motues/Momo-Backend)
-* 其他基本功能：文章分类，目录，RSS订阅，文字统计，阅读时间
-
-
-## 🚀 快速开始
-
-1. 克隆本项目
-    ```bash
-    git clone https://github.com/Motues/Momo.git
-    cd Momo
-    ```
-2. 运行 `pnpm install` 安装依赖（使用 `npm install -g pnpm` 安装 `pnpm`）
-3. 运行 `pnpm dev` 启动开发服务器
-
-## 🔧 配置
-
-参考[配置指南](/blog/intro/config)，阅读对应文章获取详细信息。
-
-## 📚 更新
-
-参考[更新指南](/blog/intro/release)，介绍如何更新项目。
+* **Golang**：正在学习语法
+* **Gin**：还没有开始学...（哭哭）
+* **Python**：很有兴趣学这个
+* **深度学习机器学习等**：出于爱好玩一玩，打算之后练一个和蛋白质结构相关的小模型
+* **C#**：学一下语法，然后vibe coding一个游戏(白盒)
+* **关卡设计**：分享一些我对一些游戏关卡的理解和分析
 
 
-## 📚 参考
+## 🛰️ 联系我
 
-* [Astro](https://astro.build/)
-* [Fuwari](https://github.com/saicaca/fuwari)
-* [Tyndall](https://github.com/moyuin-aka/tyndall-public)
+* [Mail](kanie#disroot.org)
+* [Telegram](https://telegram.me/)
+* [Github](https://github.com/Nyamuchi123)
